@@ -36,13 +36,13 @@ When time runs out or the user finishes all questions, a **finish screen** appea
 │   └── Timer.js 
 │── App.js 
 │── index.css 
-│── index.js`
+│── index.js``
 
 ---
 
 ## 🧩 Flowchart
 
-<p align="center"> <img src="public/Flowchart.jpg" alt="React Quiz App Demo" /> </p>
+<p align="center"> <img src="public/Flowchart.jpg" alt="app work flow" /> </p>
 
 ---
 
