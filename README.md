@@ -19,7 +19,7 @@ When time runs out or the user finishes all questions, a **finish screen** appea
 
 ## 🧱 Project Structure
 
-``src/
+`src/
 │── components/
 │   ├── DateCounter.js 
 │   ├── Error.js 
@@ -36,13 +36,13 @@ When time runs out or the user finishes all questions, a **finish screen** appea
 │   └── Timer.js 
 │── App.js 
 │── index.css 
-│── index.js``
+│── index.js`
 
 ---
 
 ## 🧩 Flowchart
 
-<p align="center"> <img src="public/Flowchart.jpg" alt="app work flow" /> </p>
+<p align="center"> <img src="public/Flowchart1.jpg" alt="app work flow" /> </p>
 
 ---
 
